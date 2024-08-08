@@ -9,7 +9,7 @@
 <p>- Advanced tournament customization</p>
 
 <h2>Installation</h2>
-<p>You can download it from the link - https://github.com/YugG0/strategist-tournament-generator/tags</p>
+<p>You can download it from the link - https://github.com/YugG0/strategist-tournament-generator/releases/</p>
 <p>Or, on the right there will be a "Releases" panel</p>
 <p>Select the latest version of the program and download</p>
 
