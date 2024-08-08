@@ -9,7 +9,9 @@
 <p>- Advanced tournament customization</p>
 
 <h2>Installation</h2>
-<p></p>
+<p>You can download it from the link - https://github.com/YugG0/strategist-tournament-generator/tags</p>
+<p>Or, on the right there will be a "Releases" panel</p>
+<p>Select the latest version of the program and download</p>
 
 <h2>How to Use</h2>
 <ol>
@@ -55,3 +57,11 @@
 
 
 <h2>Other</h2>
+<h5>Will there be updates that will improve the visuals and fix bugs?</h5>
+<p>- Yes, I will definitely take care to visually improve the interface and fix all the bugs in future versions. </p>
+
+<h5>Why is this program better than its analogues?</h5>
+<p>- At first glance, the program may not seem beautiful, and also not very functional, which is why it loses to most programs of the same theme, but the most important thing is that it fulfills its functions 100%, namely, it simplifies the creation and holding of tournaments. </p>
+
+<h5>What does the "Strategist" in the title mean?</h5>
+<p>- Initially, the program was planned so that my friends and I could make a tournament in strategy games, hence its name - “Strategist”.</p>
